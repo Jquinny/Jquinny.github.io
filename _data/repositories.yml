@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Jquinny
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Jquinny/Vehicle-Analytics-App
+  - Jquinny/JournAI
+  - Jquinny/pythons-on-a-plane
