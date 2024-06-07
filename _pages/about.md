@@ -13,14 +13,16 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-I'm a fourth year computer science student at the University of Alberta. I recently finished up a computer vision undergraduate research internship this past summer where I built a video processing algorithm that could detect and track 15 classes of vehicles. I learned many things about the data science lifecycle such as MLOps best practices and deep learning model training.
+I'm a fifth year computer science student at the University of Alberta, heading into my final semester of my bachelors degree. I have taken a wide variety of math and CS courses during my degree that have broadened my vision of what is possible with code. This includes courses covering machine learning, computer graphics, robotics, operating systems, databases, theoretical and practical algorithms, and much more.
 
-While in school I've learned many computer science topics such as operating systems, machine learning, database management, data structures and algorithms, and many math topics like calculus, linear algebra, and numerical methods. In my free time I'm exploring the world of machine learning for autonomous vehicles and robotics.
+I've completed two internships during my time in university, my first being at a [robotics startup](https://promiserobotics.com/) where I got to build a computer vision system from scratch. This experience introduced me to a whole bunch of new concepts I had never previously encountered, such as client-server architectures, computer networking, multi-threaded programming, and of course writing computer vision algorithms using Python and OpenCV. My second internship was a research internship at the University of Alberta, where I got to dabble in more computer vision, but this time with more emphasis on deep learning and MLOps.
 
-Outside of tech I like to spend my time reading Sci-Fi and Philosophy, gaming, being active out in nature, and practicing mixed martial arts.
+Currently, I am preparing myself for the work force by researching what companies are making positive impacts out in the world, and assessing what new skills I can develop to fit the niche's those companies require.
+
+Outside of tech I like to spend my time in nature. There is nothing quite like watching two grasshoppers battle it out on a lawn chair, or a squirrel doing parkour in the trees :smiley:. I also like to dabble in various physical activities, like running, bjj, and dancing. On the nerdier side of the spectrum, I find myself reading Sci-Fi and Philosophy books, playing video games, and watching anime.

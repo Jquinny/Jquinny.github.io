@@ -408,10 +408,10 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
+  # - volunteer
   - awards
-  - certificates
+  # - certificates
   - skills
-  - languages
+  # - languages
   - interests
-  - references
+  # - references
