@@ -17,7 +17,7 @@ The entire project was built in Python, but in the future a web-based interface 
 
 ### The Journey (and Lessons Learned)
 
-I spent the first part of the summer getting my bearings on the basics of deep learning frameworks and MLOps. I learned a valuable lesson here, and that is to avoid tutorial hell and escape the mindset of "I need to understand everything deeply before attempting to create anything". If I'm being honest, I felt like I had wasted a good chunk of time trying to perfect things and plan out every little detail I could possibly think of. I felt swamped by all of the choices and technologies that I could've chosen to work with.
+I spent the first part of the summer getting my bearings on the basics of deep learning frameworks and MLOps. I learned a valuable lesson here, and that is to avoid tutorial hell and escape the mindset of "I need to understand everything deeply before attempting to create anything". If I'm being honest, I felt like I had wasted a good chunk of time trying to plan out every little detail I could possibly think of. I felt swamped by all of the choices and technologies that I could've chosen to work with.
 
 If I could go back, I would dedicate a small amount of time at the start for framework research and initial knowledge acquisition. Then, I would've spent another small amount of time planning out a high level path to a finished product that was malleable enough to accomodate the inevitable shortcomings I would find along the way.
 The project was built with clients in mind, and working with them was a valuable opportunity. It gave me experience dealing with ill-defined dynamic application requirements, and it also showed me how fun it is to work on a project that will positively impact the lives of others!
